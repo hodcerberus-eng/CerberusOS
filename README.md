@@ -11,5 +11,6 @@ A secure, AI-powered operating system built from scratch by *Hod*, for a world u
 - 🔒 Quantum-Resistant Encryption (Post-Quantum Crypto)
 - ⚙ Triple-Layer Isolation (Microkernel + Sandbox + AI)
 - 🌐 Decentralized Identity (Future)
+📖 [View the Full Development Roadmap](docs/roadmap.md)
 
 ## 📂 Project Structure
